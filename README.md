@@ -1,9 +1,1 @@
 hello
-tests
-st
-es
-t
-set
-es
-tse
-test
